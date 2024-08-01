@@ -2,27 +2,27 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.xxn1.cn:89"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://www.123pan.com/s/pem4jv-0UPZv.html"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://tv.xxn1.cn:90/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "http://www.xxn1.cn:88"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
   },
   {
     "icon": "Fire",
